@@ -1,14 +1,14 @@
 {
-  "name": "bot-pp",
+  "name": "antiwb",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "kza",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3",
+    "discord.js": "^12.5.2",
   }
 }
